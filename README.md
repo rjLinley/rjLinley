@@ -20,6 +20,8 @@ Welcome to my GitHub profile,
  
   <img src='https://i.imgur.com/6BNVzzb.jpg' alt='Richard in his favourite place!' height='150' width='112.5'/>
   
+  Please check out my pinned posts below to view my portfolio pieces, I'm especially proud of study.io!
+  
 <!--
 **rjLinley/rjLinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
