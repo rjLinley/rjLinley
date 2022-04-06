@@ -12,6 +12,7 @@ Welcome to my GitHub profile,
   I'm also taking an intro to Java course, to expand my knowledge of languages outside Javascript!
  
 - 📫 How to reach me: 
+<br></br>
   LinkedIn: https://www.linkedin.com/in/richard-linley/
   
 - 🌄 When I'm not coding, you can find me on the trails! I'm getting back in shape for some backpacking or canoeing
