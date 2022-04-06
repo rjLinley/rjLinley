@@ -18,7 +18,7 @@ Welcome to my GitHub profile,
   adventures having completed my Software Engineering Immersive Program!
   
  
-  <img src='https://i.imgur.com/6BNVzzb.jpg' alt='Richard in his favourite place!' height='80' width='80'/>
+  <img src='https://i.imgur.com/6BNVzzb.jpg' alt='Richard in his favourite place!' />
   
 <!--
 **rjLinley/rjLinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
