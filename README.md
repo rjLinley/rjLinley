@@ -9,14 +9,13 @@ Welcome to my GitHub profile,
  <br></br>
   To further my competency with Redux
   <br></br>
-  I'm also taking an intro to Java course, to further expand my knowledge of languages outside Javascript!
+  I'm also taking an intro to Java course, to expand my knowledge of languages outside Javascript!
  
 - 📫 How to reach me: 
   LinkedIn: https://www.linkedin.com/in/richard-linley/
   
 - 🌄 When I'm not coding, you can find me on the trails! I'm getting back in shape for some backpacking or canoeing
-  adventures having completed my Software Engineering Immersive Program!
-  
+  adventures having completed my Software Engineering Immersive Program!  
  
   <img src='https://i.imgur.com/6BNVzzb.jpg' alt='Richard in his favourite place!' height='150' width='112.5'/>
   
