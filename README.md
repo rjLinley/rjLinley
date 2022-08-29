@@ -7,9 +7,9 @@ Welcome to my GitHub profile,
 
 - 🌱 I’m currently learning:
  <br></br>
-  To further my competency with Redux
+  Python!
   <br></br>
-  I'm also taking an intro to Java course, to expand my knowledge of languages outside Javascript!
+  
  
 - 📫 How to reach me: 
 <br></br>
