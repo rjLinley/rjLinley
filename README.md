@@ -14,7 +14,7 @@ Welcome to my GitHub profile,
 <br></br>
   LinkedIn: https://www.linkedin.com/in/richard-linley/
   
-- 🌄 When I'm not coding, you can find me on the trails or rock climbing! I'm always looking for the next place to have an adventure in
+- 🌄 When I'm not coding, you can find me on the trails or rock climbing! I'm always looking for my next adventure!
  
   <img src='https://i.imgur.com/6BNVzzb.jpg' alt='Richard in his favourite place!' height='150' width='112.5'/>
   
